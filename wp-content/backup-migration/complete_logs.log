@@ -1,0 +1,44 @@
+[2024-04-05 10:17:36] [LOG] Tworzenie kopii zapasowej 
+[2024-04-05 10:17:36] [LOG] Znaleziono1148 pliki do kopii zapasowej.
+[2024-04-05 10:17:37] [ERROR] Wystąpił błąd przed żądaniem zamknięcia (ale nie został on zarejestrowany w dzienniku przywracania)
+[2024-04-05 10:17:37] [ERROR] Treść błędu: filesize(): stat failed for C:\laragon\www\AWD-web\wp-content\backup-migration\backups\C:\laragon\www\AWD-web\wp-content\backup-migration\backups/BM_2024-04-05_10_17_35_W7wbJdZY0mvXaP5I.zip
+[2024-04-05 10:17:37] [ERROR] Plik/wiersz, w którym wystąpił błąd: C:\laragon\www\AWD-web\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-04-05 10:17:37] [ERROR] Obsługa błędów: ajax#01|2
+[2024-04-05 10:17:38] [ERROR] Wystąpił błąd przed żądaniem zamknięcia (ale nie został on zarejestrowany w dzienniku przywracania)
+[2024-04-05 10:17:38] [ERROR] Treść błędu: filesize(): stat failed for C:\laragon\www\AWD-web\wp-content\backup-migration\backups\C:\laragon\www\AWD-web\wp-content\backup-migration\backups/BM_2024-04-05_10_17_35_W7wbJdZY0mvXaP5I.zip
+[2024-04-05 10:17:38] [ERROR] Plik/wiersz, w którym wystąpił błąd: C:\laragon\www\AWD-web\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-04-05 10:17:38] [ERROR] Obsługa błędów: ajax#01|2
+[2024-04-05 10:17:40] [LOG] Utworzono nową kopię zapasową o nazwie: BM_2024-04-05_10_17_35_W7wbJdZY0mvXaP5I.zip
+[2024-04-05 10:17:40] [LOG] Process (backup) finished successfully via ajax.php
+[2024-04-05 10:28:18] [LOG] Tworzenie kopii zapasowej 
+[2024-04-05 10:28:18] [LOG] Znaleziono1155 pliki do kopii zapasowej.
+[2024-04-05 10:28:19] [ERROR] Wystąpił błąd przed żądaniem zamknięcia (ale nie został on zarejestrowany w dzienniku przywracania)
+[2024-04-05 10:28:19] [ERROR] Treść błędu: filesize(): stat failed for C:\laragon\www\AWD-web\wp-content\backup-migration\backups\C:\laragon\www\AWD-web\wp-content\backup-migration\backups/BM_2024-04-05_10_28_17_vL1RrkXwDCmit9cs.zip
+[2024-04-05 10:28:19] [ERROR] Plik/wiersz, w którym wystąpił błąd: C:\laragon\www\AWD-web\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-04-05 10:28:19] [ERROR] Obsługa błędów: ajax#01|2
+[2024-04-05 10:28:20] [ERROR] Wystąpił błąd przed żądaniem zamknięcia (ale nie został on zarejestrowany w dzienniku przywracania)
+[2024-04-05 10:28:20] [ERROR] Treść błędu: filesize(): stat failed for C:\laragon\www\AWD-web\wp-content\backup-migration\backups\C:\laragon\www\AWD-web\wp-content\backup-migration\backups/BM_2024-04-05_10_28_17_vL1RrkXwDCmit9cs.zip
+[2024-04-05 10:28:20] [ERROR] Plik/wiersz, w którym wystąpił błąd: C:\laragon\www\AWD-web\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-04-05 10:28:20] [ERROR] Obsługa błędów: ajax#01|2
+[2024-04-05 10:28:22] [LOG] Utworzono nową kopię zapasową o nazwie: BM_2024-04-05_10_28_17_vL1RrkXwDCmit9cs.zip
+[2024-04-05 10:28:22] [LOG] Process (backup) finished successfully via ajax.php
+[2024-04-05 12:36:38] [LOG] Tworzenie kopii zapasowej 
+[2024-04-05 12:36:38] [LOG] Znaleziono1184 pliki do kopii zapasowej.
+[2024-04-05 12:36:40] [ERROR] Wystąpił błąd przed żądaniem zamknięcia (ale nie został on zarejestrowany w dzienniku przywracania)
+[2024-04-05 12:36:40] [ERROR] Treść błędu: filesize(): stat failed for C:\laragon\www\AWD-web\wp-content\backup-migration\backups\C:\laragon\www\AWD-web\wp-content\backup-migration\backups/BM_2024-04-05_12_36_36_xAR2CuMp1woESdj5.zip
+[2024-04-05 12:36:40] [ERROR] Plik/wiersz, w którym wystąpił błąd: C:\laragon\www\AWD-web\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-04-05 12:36:40] [ERROR] Obsługa błędów: ajax#01|2
+[2024-04-05 12:36:43] [ERROR] Wystąpił błąd przed żądaniem zamknięcia (ale nie został on zarejestrowany w dzienniku przywracania)
+[2024-04-05 12:36:43] [ERROR] Treść błędu: filesize(): stat failed for C:\laragon\www\AWD-web\wp-content\backup-migration\backups\C:\laragon\www\AWD-web\wp-content\backup-migration\backups/BM_2024-04-05_12_36_36_xAR2CuMp1woESdj5.zip
+[2024-04-05 12:36:43] [ERROR] Plik/wiersz, w którym wystąpił błąd: C:\laragon\www\AWD-web\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-04-05 12:36:43] [ERROR] Obsługa błędów: ajax#01|2
+[2024-04-05 12:36:46] [LOG] Utworzono nową kopię zapasową o nazwie: BM_2024-04-05_12_36_36_xAR2CuMp1woESdj5.zip
+[2024-04-05 12:36:46] [LOG] Process (backup) finished successfully via ajax.php
+[2024-04-05 12:51:20] [ERROR] Front End Ajax Error START
+[2024-04-05 12:51:20] [ERROR] call = is-running-backup
+[2024-04-05 12:51:20] [ERROR] 1_x = is-running-backup
+[2024-04-05 12:51:20] [ERROR] 2_action = backup_migration
+[2024-04-05 12:51:20] [ERROR] 2_token = bmi
+[2024-04-05 12:51:20] [ERROR] 2_nonce = 6daf948851
+[2024-04-05 12:51:20] [ERROR] 2_f = is-running-backup
+[2024-04-05 12:51:20] [ERROR] Front End Ajax Error END
